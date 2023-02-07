@@ -27,3 +27,7 @@ link.write({
   'card_owner': record.id,
   'users_can_edit': [(6, 0, record.x_users_can_edit.ids)]
 })
+
+link.write({
+  'users_can_edit': [(6, 0, record.x_users_can_edit.ids)]
+})
