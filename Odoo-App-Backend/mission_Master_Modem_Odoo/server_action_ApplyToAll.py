@@ -10,10 +10,21 @@
 #  - Command: x2Many commands namespace
 # To return an action, assign: action = {...}
 
-# find the contact of this user that will be auto-created when this user is created
-contact = env['res.partner'].search([('id', '=', record.partner_id.id)], limit=1)
-# update the contact; paste the email and id of this user into the corresponding email and ManyToMany fields of this contact
-contact.write({
-  'email': record.login,
-  'x_users_can_edit': [(6, 0, [record.id])]
-})
+counter = 0
+x_ip_digits = ""
+first = records[0]
+for rec in records:
+  if counter > 0:
+    x_ip_digits = first.x_ip.split('.') 
+    rec['x_ip'] = x_ip_digits[0] + '.' + x_ip_digits[1] + '.' + x_ip_digits[2] + '.' + str(int(x_ip_digits[3])+1)
+    rec['x_subnet'] = first.x_subnet
+    rec['x_dhcp'] = first.x_dhcp
+    rec['x_enable_wireless'] = first.x_enable_wireless
+    rec['x_enable_ssid1'] = first.x_enable_ssid1
+    rec['x_enable_ssid2'] = first.x_enable_ssid2
+    rec['x_enable_ssid3'] = first.x_enable_ssid3
+    rec['x_enable_ssid4'] = first.x_enable_ssid4
+    rec['x_manual_time'] = first.x_manual_time
+    rec['x_new_password'] = first.x_new_password
+    rec['x_reboot'] = first.x_reboot
+  counter+=1
