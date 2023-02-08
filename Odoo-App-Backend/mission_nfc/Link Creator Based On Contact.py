@@ -10,8 +10,6 @@
 #  - Command: x2Many commands namespace
 # To return an action, assign: action = {...}
 
-# Find the user for this contact
-user = env['res.users'].search([('login', '=', record.email)], limit=1)
 # create the link and map each field with the fields in the contact
 link = env['links.profile'].create({
         'street': record.street,
@@ -25,8 +23,16 @@ link = env['links.profile'].create({
         'country_id': record.country_id.id, #ManyToOne
         'state': record.state_id.id, #ManyToOne
         'card_owner': record.id, #ManyToOne
-        'users_can_edit': [(6, 0, [user.id])] #ManyToMany
-        })
+        # paste the user id list from the MtM field into the MtM field of this link
+        # single [(6, 0, [record.x_users_can_edit.id])] caused an internal server error
+        'users_can_edit': [(6, 0, record.x_users_can_edit.ids)]
+        })     
+
+
+
+
+
+
 
 
 # Alternative:
@@ -36,7 +42,7 @@ country_id = env['res.country'].search([('id', '=', record.id)], limit=1)
 card_owner = env['res.partner'].search([('id', '=', record.id)], limit=1)
 state_id = env['res.country.state'].search([('id', '=', record.id)], limit=1)
 #ManyToMany fields
-x_users_can_edit = env['res.users'].search([('login', '=', record.email)], limit=1)
+user = env['res.users'].search([('login', '=', record.email)], limit=1)
 #create the link and map each field with the fields in the contact
 link = env['links.profile'].create({
         'street': record.street,
@@ -50,5 +56,5 @@ link = env['links.profile'].create({
         'country_id': country_id.id,
         'state': state_id.id,
         'card_owner': card_owner.id,
-        'users_can_edit': [(6, 0, [x_users_can_edit.id])]
+        'users_can_edit': [(6, 0, [user.id])]
         })
