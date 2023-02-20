@@ -1,0 +1,6 @@
+[submodule "Projects/Master-Modem-Odoo-dbmodule"]
+	path = Projects/Master-Modem-Odoo-dbmodule
+	url = https://github.com/swordliongit/Master-Modem-Odoo-dbmodule
+[submodule "Projects/Meeting-Odoo-dbmodule"]
+	path = Projects/Meeting-Odoo-dbmodule
+	url = https://github.com/swordliongit/Meeting-Odoo-dbmodule
