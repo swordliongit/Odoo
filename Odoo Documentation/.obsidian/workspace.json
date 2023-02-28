@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "05487169147be3f0",
+        "id": "c5745851be15e713",
         "type": "tabs",
         "children": [
           {
-            "id": "a350b5daa68b3f23",
+            "id": "7766d4bc32cc0af6",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odoo Backend/Advanced Concepts/Creating Custom Module/Creating a Module.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "pinned": true
             }
           }
         ]
@@ -85,7 +83,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Backend/Advanced Concepts/Creating Custom Module/Creating a Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odoo Backend/Advanced Concepts/Creating Custom Module/Creating a Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +120,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Odoo Backend/Advanced Concepts/Creating Custom Module/Creating a Module.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +140,40 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a350b5daa68b3f23",
+  "active": "7766d4bc32cc0af6",
   "lastOpenFiles": [
-    "Odoo Backend/Advanced Concepts/Creating Custom Module/Creating a Module.md",
-    "Odoo Backend/Advanced Concepts/Creating Custom Module",
-    "Odoo Backend/Advanced Concepts",
-    "Odoo Backend"
+    "Odoo Backend/Technical/Errors/ERRORS.md",
+    "Odoo Backend/Technical/TECHNICAL.md",
+    "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
+    "Odoo Backend/Advanced/Creating Custom Module/CREATING CUSTOM MODULES.md",
+    "Odoo Backend/Advanced/Creating Custom Module/Creating a Module.md",
+    "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
+    "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
+    "Odoo Backend/Basics/BASICS.md",
+    "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
+    "Odoo Backend/Advanced/ADVANCED.md",
+    "Third Party Useful Apps/Good Visual Themes.md",
+    "Odoo Backend/Advanced/Users & Companies",
+    "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
+    "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
+    "Third Party Useful Apps/Dashboard Ninja",
+    "Third Party Useful Apps",
+    "Odoo Backend/Technical/Errors/Odoo Server Error with Empty Message.md",
+    "Odoo Backend/Technical/Errors",
+    "Odoo Backend/Basics/Remove Dependency when Uninstalling an App.md",
+    "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
+    "Odoo Backend/Basics/Importing Excel Files as a Table.md",
+    "Odoo Backend/Database Control/DATABASE CONTROL.md",
+    "Odoo Backend/Basics/Installing External Apps.md",
+    "Odoo Backend/Basics/Id of Specific Fields.md",
+    "Odoo Backend/Database Control/Copy, Restore, Move Databases.md",
+    "Odoo Backend/Technical/Untitled.md",
+    "Odoo Backend/Technical/Python Actions",
+    "Odoo Backend/ODOO BACKEND.md",
+    "Odoo Frontend",
+    "Odoo Backend/Basics",
+    "Odoo Backend/Database Control",
+    "Odoo Backend/Technical",
+    "Odoo Backend/Advanced/Creating Custom Module"
   ]
 }
