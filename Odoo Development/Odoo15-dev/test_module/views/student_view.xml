@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <!-- Student Form View -->
+    <record id="student_form" model="ir.ui.view">
+        <field name="name">Student</field>
+        <field name="model">student.student</field>
+        <field name="arch" type="xml">
+            <form>
+                <field name="name"></field>
+                <field name="age"></field>
+                <field name="email"></field>
+                <field name="join_date"></field>
+            </form>
+        </field>
+    </record>
+    
+    <!--Student Tree View-->
+    <record id="student_tree" model="ir.ui.view">
+        <field name="name">Student</field>
+        <field name="model">student.student</field>
+        <field name="arch" type="xml">
+            <tree>
+                <field name="name"></field>
+                <field name="age"></field>
+                <field name="email"></field>
+                <field name="join_date"></field>
+            </tree>
+        </field>
+    </record>
+
+    <!-- Action to call the views-->
+    <record id="student_action" model="ir.actions.act_window">
+        <field name="name">Student</field>
+        <field name="type">ir.actions.act_window</field>
+        <field name="res_model">student.student</field>
+        <field name="view_mode">tree,form</field>
+    </record>
+
+    <menuitem id="student_menu" name="Student" sequence="4" action="student_action"/>
+</odoo>

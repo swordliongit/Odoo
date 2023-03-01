@@ -16,6 +16,18 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "8a2328d7c31a584b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -142,16 +154,20 @@
   },
   "active": "7766d4bc32cc0af6",
   "lastOpenFiles": [
-    "Odoo Backend/Technical/Errors/ERRORS.md",
-    "Odoo Backend/Technical/TECHNICAL.md",
-    "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
+    "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
+    "Odoo Backend/Advanced/Creating Custom Module/Creating a Module and Setting Development Environment.md",
+    "Odoo Backend/Advanced/Creating Custom Module/How to see Custom Module's Fields.md",
     "Odoo Backend/Advanced/Creating Custom Module/CREATING CUSTOM MODULES.md",
-    "Odoo Backend/Advanced/Creating Custom Module/Creating a Module.md",
+    "Odoo Backend/Advanced/ADVANCED.md",
+    "Odoo Backend/ODOO BACKEND.md",
+    "Odoo Backend/Basics/BASICS.md",
+    "Odoo Backend/Technical/TECHNICAL.md",
+    "Odoo Backend/Technical/Debug Mode.md",
+    "Odoo Backend/Technical/Errors/ERRORS.md",
+    "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
     "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
     "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
-    "Odoo Backend/Basics/BASICS.md",
     "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
-    "Odoo Backend/Advanced/ADVANCED.md",
     "Third Party Useful Apps/Good Visual Themes.md",
     "Odoo Backend/Advanced/Users & Companies",
     "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
@@ -169,7 +185,6 @@
     "Odoo Backend/Database Control/Copy, Restore, Move Databases.md",
     "Odoo Backend/Technical/Untitled.md",
     "Odoo Backend/Technical/Python Actions",
-    "Odoo Backend/ODOO BACKEND.md",
     "Odoo Frontend",
     "Odoo Backend/Basics",
     "Odoo Backend/Database Control",
