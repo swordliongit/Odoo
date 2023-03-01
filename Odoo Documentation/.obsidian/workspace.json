@@ -18,12 +18,24 @@
             }
           },
           {
-            "id": "8a2328d7c31a584b",
+            "id": "f271a99d7074ab1f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
+                "file": "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "661237fe6ec59321",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Database Control/DATABASE CONTROL.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,6 +166,17 @@
   },
   "active": "7766d4bc32cc0af6",
   "lastOpenFiles": [
+    "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
+    "Odoo Backend/Database Control/DATABASE CONTROL.md",
+    "Odoo Backend/Database Control/Many2One Fields.md",
+    "Odoo Backend/Database Control/Many2Many Fields.md",
+    "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
+    "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
+    "Odoo Backend/Advanced/Users & Companies/Creating a User Creates a Contact.md",
+    "Odoo Backend/Database Control/One2Many Fields.md",
+    "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
+    "Odoo Backend/Technical/Python Actions/Russian alphabet Errors.md",
+    "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
     "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
     "Odoo Backend/Advanced/Creating Custom Module/Creating a Module and Setting Development Environment.md",
     "Odoo Backend/Advanced/Creating Custom Module/How to see Custom Module's Fields.md",
@@ -165,25 +188,14 @@
     "Odoo Backend/Technical/Debug Mode.md",
     "Odoo Backend/Technical/Errors/ERRORS.md",
     "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
-    "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
-    "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
-    "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
     "Third Party Useful Apps/Good Visual Themes.md",
     "Odoo Backend/Advanced/Users & Companies",
     "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
-    "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
     "Third Party Useful Apps/Dashboard Ninja",
     "Third Party Useful Apps",
     "Odoo Backend/Technical/Errors/Odoo Server Error with Empty Message.md",
     "Odoo Backend/Technical/Errors",
     "Odoo Backend/Basics/Remove Dependency when Uninstalling an App.md",
-    "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
-    "Odoo Backend/Basics/Importing Excel Files as a Table.md",
-    "Odoo Backend/Database Control/DATABASE CONTROL.md",
-    "Odoo Backend/Basics/Installing External Apps.md",
-    "Odoo Backend/Basics/Id of Specific Fields.md",
-    "Odoo Backend/Database Control/Copy, Restore, Move Databases.md",
-    "Odoo Backend/Technical/Untitled.md",
     "Odoo Backend/Technical/Python Actions",
     "Odoo Frontend",
     "Odoo Backend/Basics",
