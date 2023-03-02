@@ -1,3 +1,2 @@
-[[CREATING CUSTOM MODULES]]
+[[CUSTOM MODULES]]
 [[USERS & COMPANIES]]
-[[Updating a Module]]

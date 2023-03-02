@@ -2,153 +2,188 @@
   "nodePositions": [
     {
       "id": "Odoo Backend/Advanced/ADVANCED.md",
-      "x": -115.33458709716797,
-      "y": 464.4715270996094
-    },
-    {
-      "id": "Odoo Backend/Advanced/Creating Custom Module/CREATING CUSTOM MODULES.md",
-      "x": -322.0011291503906,
-      "y": 691.2493896484375
+      "x": -159.36412048339844,
+      "y": 264.3928527832031
     },
     {
       "id": "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
-      "x": 182.5439453125,
-      "y": 970.2078857421875
+      "x": -553.7305297851562,
+      "y": 617.806884765625
     },
     {
       "id": "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
-      "x": 127.93179321289062,
-      "y": 745.2850952148438
+      "x": -428.1841735839844,
+      "y": 416.757080078125
     },
     {
       "id": "Odoo Backend/Basics/BASICS.md",
-      "x": -66.7151870727539,
-      "y": -482.39447021484375
+      "x": -185.4730224609375,
+      "y": -587.227294921875
     },
     {
       "id": "Odoo Backend/Basics/Id of Specific Fields.md",
-      "x": 7.975868225097656,
-      "y": -732.3633422851562
+      "x": -396.21783447265625,
+      "y": -658.475341796875
     },
     {
       "id": "Odoo Backend/Basics/Importing Excel Files as a Table.md",
-      "x": -162.17962646484375,
-      "y": -716.0086059570312
+      "x": -128.5657958984375,
+      "y": -835.6146850585938
     },
     {
       "id": "Odoo Backend/Basics/Installing External Apps.md",
-      "x": 138.17201232910156,
-      "y": -633.2495727539062
+      "x": 7.767423152923584,
+      "y": -731.3628540039062
     },
     {
       "id": "Odoo Backend/Basics/Remove Dependency when Uninstalling an App.md",
-      "x": -277.4035339355469,
-      "y": -553.2078247070312
+      "x": -296.4057922363281,
+      "y": -813.4153442382812
     },
     {
       "id": "Odoo Backend/Database Control/Copy, Restore, Move Databases.md",
-      "x": 395.7076416015625,
-      "y": 73.60840606689453
+      "x": 387.39178466796875,
+      "y": -178.7965545654297
     },
     {
       "id": "Odoo Backend/Database Control/DATABASE CONTROL.md",
-      "x": 213.7716064453125,
-      "y": -69.00445556640625
+      "x": 144.38453674316406,
+      "y": -227.5073699951172
     },
     {
       "id": "Odoo Backend/ODOO BACKEND.md",
-      "x": -146.20147705078125,
-      "y": -0.6596818566322327
-    },
-    {
-      "id": "Odoo Backend/Technical/Errors/ERRORS.md",
-      "x": -772.676025390625,
-      "y": 191.75416564941406
-    },
-    {
-      "id": "Odoo Backend/Technical/Errors/Odoo Server Error with Empty Message.md",
-      "x": -967.9195556640625,
-      "y": 301.4638977050781
-    },
-    {
-      "id": "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
-      "x": -794.7632446289062,
-      "y": -262.552734375
-    },
-    {
-      "id": "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
-      "x": -826.8800659179688,
-      "y": -501.1712646484375
-    },
-    {
-      "id": "Odoo Backend/Technical/TECHNICAL.md",
-      "x": -564.0070190429688,
-      "y": 19.385805130004883
-    },
-    {
-      "id": "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
-      "x": 1083.4453125,
-      "y": -100.94242858886719
-    },
-    {
-      "id": "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
-      "x": 1064.20654296875,
-      "y": -321.7938232421875
-    },
-    {
-      "id": "Third Party Useful Apps/Good Visual Themes.md",
-      "x": 1015.0247192382812,
-      "y": 362.534423828125
-    },
-    {
-      "id": "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
-      "x": 1062.8170166015625,
-      "y": 148.34014892578125
+      "x": -222.48223876953125,
+      "y": -181.75901794433594
     },
     {
       "id": "Odoo Backend/Technical/Debug Mode.md",
-      "x": -558.0567016601562,
-      "y": -183.5124053955078
+      "x": -671.6817626953125,
+      "y": -80.73230743408203
     },
     {
-      "id": "Odoo Backend/Advanced/Creating Custom Module/Creating a Module and Setting Development Environment.md",
-      "x": -358.899658203125,
-      "y": 918.0169677734375
+      "id": "Odoo Backend/Technical/Errors/ERRORS.md",
+      "x": -841.4036254882812,
+      "y": -509.4064025878906
     },
     {
-      "id": "Odoo Backend/Advanced/Creating Custom Module/How to see Custom Module's Fields.md",
-      "x": -542.5558471679688,
-      "y": 741.3013916015625
+      "id": "Odoo Backend/Technical/Errors/Odoo Server Error with Empty Message.md",
+      "x": -988.9580688476562,
+      "y": -681.1613159179688
     },
     {
-      "id": "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
-      "x": 97.00666809082031,
-      "y": 467.1949157714844
+      "id": "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
+      "x": -971.4132080078125,
+      "y": -134.57391357421875
     },
     {
-      "id": "Odoo Backend/Advanced/Users & Companies/Creating a User Creates a Contact.md",
-      "x": 361.2298889160156,
-      "y": 789.64501953125
+      "id": "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
+      "x": -1069.779052734375,
+      "y": 82.22111511230469
     },
     {
-      "id": "Odoo Backend/Technical/Python Actions/Russian alphabet Errors.md",
-      "x": -1014.1408081054688,
-      "y": -306.71881103515625
+      "id": "Odoo Backend/Technical/TECHNICAL.md",
+      "x": -660.90625,
+      "y": -290.21563720703125
     },
     {
-      "id": "Odoo Backend/Database Control/Many2One Fields.md",
-      "x": 220.7353973388672,
-      "y": -295.00830078125
+      "id": "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
+      "x": 1123.357421875,
+      "y": -410.456787109375
+    },
+    {
+      "id": "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
+      "x": 1050.2642822265625,
+      "y": -616.6315307617188
+    },
+    {
+      "id": "Third Party Useful Apps/Good Visual Themes.md",
+      "x": 1165.5792236328125,
+      "y": 44.01681137084961
+    },
+    {
+      "id": "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
+      "x": 1162.4320068359375,
+      "y": -172.33180236816406
     },
     {
       "id": "Odoo Backend/Database Control/Many2Many Fields.md",
-      "x": 377.6566162109375,
-      "y": -264.7888488769531
+      "x": 219.51870727539062,
+      "y": -449.0429382324219
+    },
+    {
+      "id": "Odoo Backend/Database Control/Many2One Fields.md",
+      "x": 266.74432373046875,
+      "y": -34.027809143066406
     },
     {
       "id": "Odoo Backend/Database Control/One2Many Fields.md",
-      "x": 456.9855651855469,
-      "y": -130.3018798828125
+      "x": 363.5821533203125,
+      "y": -354.6875915527344
+    },
+    {
+      "id": "Odoo Backend/Advanced/Users & Companies/Creating a User Creates a Contact.md",
+      "x": -655.06201171875,
+      "y": 441.3718566894531
+    },
+    {
+      "id": "Odoo Backend/Technical/Python Actions/Russian alphabet Errors.md",
+      "x": -1198.492919921875,
+      "y": -120.0926742553711
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
+      "x": -186.47169494628906,
+      "y": 778.2357177734375
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/How to see Custom Module's Fields.md",
+      "x": 218.14894104003906,
+      "y": 671.633544921875
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+      "x": 157.9320068359375,
+      "y": 485.6061706542969
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/CUSTOM MODULES.md",
+      "x": -7.077364921569824,
+      "y": 640.9964599609375
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/VIEWS.md",
+      "x": 154.75367736816406,
+      "y": 1005.9426879882812
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/How to Create Views and Show Them.md",
+      "x": -53.602134704589844,
+      "y": 1127.311767578125
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Sheet and Grouping.md",
+      "x": 683.4419555664062,
+      "y": 1084.525146484375
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/VISUALLY BETTER VIEWS.md",
+      "x": 480.7884826660156,
+      "y": 991.3558349609375
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Notebook and Pages.md",
+      "x": 667.6144409179688,
+      "y": 840.767822265625
+    },
+    {
+      "id": "Obsidian Shortcuts.md",
+      "x": 548.9327392578125,
+      "y": -1154.5986328125
+    },
+    {
+      "id": "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
+      "x": 162.37994384765625,
+      "y": 1237.829345703125
     }
   ],
   "automaticallyRestoreNodePositions": true

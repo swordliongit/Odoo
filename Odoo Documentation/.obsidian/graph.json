@@ -22,17 +22,38 @@
       }
     },
     {
-      "query": "path:\"Odoo Backend/Advanced\"",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
       "query": "path:\"Odoo Backend/Basics\"",
       "color": {
         "a": 1,
         "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:\"Odoo Backend/Advanced/Users & Companies\"",
+      "color": {
+        "a": 1,
+        "rgb": 11424480
+      }
+    },
+    {
+      "query": "file:ADVANCED",
+      "color": {
+        "a": 1,
+        "rgb": 2322325
+      }
+    },
+    {
+      "query": "file:CUSTOM MODULES",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "path:\"Odoo Backend/Advanced/Custom Modules\"",
+      "color": {
+        "a": 1,
+        "rgb": 5609883
       }
     }
   ],
@@ -46,6 +67,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 0.609375,
   "linkDistance": 182,
-  "scale": 0.5694148928667606,
+  "scale": 0.324233320218464,
   "close": true
 }

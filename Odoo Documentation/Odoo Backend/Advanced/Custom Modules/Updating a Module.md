@@ -1,9 +1,9 @@
 ### Notes
-*Changing one of the below requires do*
--   XML changes from Backend interface -> Reload the page
--  XML changes from Backend -> 
--   Python -> restart server
--   JS,CSS -> reload webpage
+*Changing one of the below requires you to do:*
+-  XML changes from Backend interface -> Reload page
+-  XML changes from Backend -> Restart server
+-  Python -> Restart server, upgrade module
+-  JS,CSS -> Reload webpage
 
 
 **If you modify  your module(security.csv or python), you have to add the --update command to the args list of the launch.json and restart the server to see the changes. Don't forget to remove comment from the __manifest__.py's 'data' key:**

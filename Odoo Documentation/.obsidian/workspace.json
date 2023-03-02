@@ -4,41 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "c5745851be15e713",
+        "id": "39a1123166d002c3",
         "type": "tabs",
         "children": [
           {
-            "id": "7766d4bc32cc0af6",
+            "id": "36f57f9bd8653ecd",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
-            }
-          },
-          {
-            "id": "f271a99d7074ab1f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "661237fe6ec59321",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Odoo Backend/Database Control/DATABASE CONTROL.md",
-                "mode": "source",
-                "source": false
-              }
+              "state": {}
             }
           }
         ]
@@ -91,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 370.5
   },
   "right": {
     "id": "2624ccae9bd80d2f",
@@ -164,8 +138,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "7766d4bc32cc0af6",
+  "active": "36f57f9bd8653ecd",
   "lastOpenFiles": [
+    "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
+    "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/VIEWS.md",
+    "Odoo Backend/Advanced/Custom Modules/CUSTOM MODULES.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/VISUALLY BETTER VIEWS.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Notebook and Pages.md",
+    "notebook2.png",
+    "notebook.png",
+    "Odoo Backend/Advanced/Custom Modules/Views/How to Create Views and Show Them.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Sheet and Grouping.md",
+    "Obsidian Shortcuts.md",
+    "Screenshot 2023-03-02 115715.png",
+    "Screenshot 2023-03-02 115043.png",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views",
+    "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
+    "Odoo Backend/Advanced/ADVANCED.md",
+    "Odoo Backend/Technical/TECHNICAL.md",
+    "Odoo Backend/Technical/Debug Mode.md",
+    "Odoo Backend/ODOO BACKEND.md",
+    "Odoo Backend/Advanced/Custom Modules/How to see Custom Module's Fields.md",
+    "Odoo Backend/Advanced/Custom Modules/Views",
     "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
     "Odoo Backend/Database Control/DATABASE CONTROL.md",
     "Odoo Backend/Database Control/Many2One Fields.md",
@@ -177,30 +172,13 @@
     "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
     "Odoo Backend/Technical/Python Actions/Russian alphabet Errors.md",
     "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
-    "Odoo Backend/Advanced/Creating Custom Module/Updating a Module.md",
-    "Odoo Backend/Advanced/Creating Custom Module/Creating a Module and Setting Development Environment.md",
-    "Odoo Backend/Advanced/Creating Custom Module/How to see Custom Module's Fields.md",
-    "Odoo Backend/Advanced/Creating Custom Module/CREATING CUSTOM MODULES.md",
-    "Odoo Backend/Advanced/ADVANCED.md",
-    "Odoo Backend/ODOO BACKEND.md",
-    "Odoo Backend/Basics/BASICS.md",
-    "Odoo Backend/Technical/TECHNICAL.md",
-    "Odoo Backend/Technical/Debug Mode.md",
-    "Odoo Backend/Technical/Errors/ERRORS.md",
-    "Third Party Useful Apps/THIRD PARTY USEFUL APPS.md",
-    "Third Party Useful Apps/Good Visual Themes.md",
     "Odoo Backend/Advanced/Users & Companies",
-    "Third Party Useful Apps/Dashboard Ninja/DASHBOARD NINJA.md",
     "Third Party Useful Apps/Dashboard Ninja",
     "Third Party Useful Apps",
-    "Odoo Backend/Technical/Errors/Odoo Server Error with Empty Message.md",
     "Odoo Backend/Technical/Errors",
-    "Odoo Backend/Basics/Remove Dependency when Uninstalling an App.md",
     "Odoo Backend/Technical/Python Actions",
     "Odoo Frontend",
     "Odoo Backend/Basics",
-    "Odoo Backend/Database Control",
-    "Odoo Backend/Technical",
-    "Odoo Backend/Advanced/Creating Custom Module"
+    "Odoo Backend/Database Control"
   ]
 }
