@@ -11,8 +11,12 @@
             "id": "36f57f9bd8653ecd",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md"
+              }
             }
           }
         ]
@@ -140,6 +148,7 @@
   },
   "active": "36f57f9bd8653ecd",
   "lastOpenFiles": [
+    "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
     "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
     "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
     "Odoo Backend/Advanced/Custom Modules/Views/VIEWS.md",
@@ -154,7 +163,6 @@
     "Screenshot 2023-03-02 115715.png",
     "Screenshot 2023-03-02 115043.png",
     "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views",
-    "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
     "Odoo Backend/Advanced/ADVANCED.md",
     "Odoo Backend/Technical/TECHNICAL.md",
     "Odoo Backend/Technical/Debug Mode.md",
