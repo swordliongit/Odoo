@@ -39,7 +39,7 @@ addons_path = path/to/odoo/addons, path/to/workspace/directory
             "request":"launch",
             "stopOnEntry": false,
             "console":"integratedTerminal",
-            "program":"C:\\Program Files\\Odoo 15.0.20221205\\server\\odoo-bin",
+            "program":"C:\\Program Files\\Odoo 15.0\\server\\odoo-bin",
             "args": [
                 "--conf=${workspaceFolder}/odoo.conf",
             ],

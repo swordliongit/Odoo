@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "path:\"Odoo Backend/Database Control\"",
@@ -57,7 +57,7 @@
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
   "nodeSizeMultiplier": 1,
@@ -67,6 +67,6 @@
   "repelStrength": 8.4375,
   "linkStrength": 0.609375,
   "linkDistance": 182,
-  "scale": 0.6372987627587378,
+  "scale": 0.4061497025437757,
   "close": true
 }

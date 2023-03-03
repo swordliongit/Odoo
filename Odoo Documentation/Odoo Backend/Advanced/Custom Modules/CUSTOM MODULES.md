@@ -3,3 +3,4 @@
 [[How to see Custom Module's Fields]]
 [[Updating a Module]]
 [[VIEWS]]
+[[Module Customization]]

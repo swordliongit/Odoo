@@ -10,16 +10,51 @@
           {
             "id": "36f57f9bd8653ecd",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "4755481c120f5e19",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+                "file": "Odoo Backend/Advanced/Custom Modules/Module Customization.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d462e886ec612f45",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/How to Give Rights to a Model.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "168da7be2e12e014",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Advanced/Custom Modules/Module Customization.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+                "file": "Odoo Backend/Advanced/Custom Modules/How to Give Rights to a Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +137,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+                "file": "Odoo Backend/Advanced/Custom Modules/How to Give Rights to a Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Odoo Backend/Advanced/Custom Modules/Updating a Module.md"
+                "file": "Odoo Backend/Advanced/Custom Modules/How to Give Rights to a Model.md"
               }
             }
           }
@@ -146,19 +181,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36f57f9bd8653ecd",
+  "active": "d462e886ec612f45",
   "lastOpenFiles": [
-    "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
-    "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
-    "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
-    "Odoo Backend/Advanced/Custom Modules/Views/VIEWS.md",
+    "Odoo Backend/Advanced/Custom Modules/Module Customization.md",
+    "Odoo Backend/Advanced/Custom Modules/How to Give Rights to a Model.md",
     "Odoo Backend/Advanced/Custom Modules/CUSTOM MODULES.md",
-    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/VISUALLY BETTER VIEWS.md",
+    "Odoo Backend/Advanced/Custom Modules/How to see Custom Module's Fields.md",
+    "Odoo Backend/Advanced/Custom Modules/Creating a Module and Setting Development Environment.md",
+    "Odoo Backend/Advanced/Custom Modules/Updating a Module.md",
+    "Odoo Backend/Database Control/Transporting Database and Modules From Remote to Local.md",
+    "Odoo Backend/Database Control/DATABASE CONTROL.md",
+    "Odoo Frontend/ODOO FRONTEND.md",
+    "Odoo Frontend",
+    "Odoo Backend/Advanced/Custom Modules/Untitled",
+    "Odoo Backend/Advanced/Custom Modules/Views/How to Create Views and Show Them.md",
     "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Notebook and Pages.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Sheet and Grouping.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/VIEWS.md",
+    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/VISUALLY BETTER VIEWS.md",
     "notebook2.png",
     "notebook.png",
-    "Odoo Backend/Advanced/Custom Modules/Views/How to Create Views and Show Them.md",
-    "Odoo Backend/Advanced/Custom Modules/Views/Visually Better Views/Sheet and Grouping.md",
     "Obsidian Shortcuts.md",
     "Screenshot 2023-03-02 115715.png",
     "Screenshot 2023-03-02 115043.png",
@@ -167,26 +210,18 @@
     "Odoo Backend/Technical/TECHNICAL.md",
     "Odoo Backend/Technical/Debug Mode.md",
     "Odoo Backend/ODOO BACKEND.md",
-    "Odoo Backend/Advanced/Custom Modules/How to see Custom Module's Fields.md",
     "Odoo Backend/Advanced/Custom Modules/Views",
     "Odoo Backend/Technical/Python Actions/Warning Pop Up.md",
-    "Odoo Backend/Database Control/DATABASE CONTROL.md",
     "Odoo Backend/Database Control/Many2One Fields.md",
     "Odoo Backend/Database Control/Many2Many Fields.md",
     "Third Party Useful Apps/Dashboard Ninja/Dashboard Ninja Installation Error.md",
     "Odoo Backend/Advanced/Users & Companies/Controlling Visibility of the Apps.md",
     "Odoo Backend/Advanced/Users & Companies/Creating a User Creates a Contact.md",
-    "Odoo Backend/Database Control/One2Many Fields.md",
-    "Odoo Backend/Technical/Python Actions/PYTHON ACTIONS.md",
-    "Odoo Backend/Technical/Python Actions/Russian alphabet Errors.md",
-    "Odoo Backend/Advanced/Users & Companies/USERS & COMPANIES.md",
     "Odoo Backend/Advanced/Users & Companies",
     "Third Party Useful Apps/Dashboard Ninja",
     "Third Party Useful Apps",
     "Odoo Backend/Technical/Errors",
     "Odoo Backend/Technical/Python Actions",
-    "Odoo Frontend",
-    "Odoo Backend/Basics",
-    "Odoo Backend/Database Control"
+    "Odoo Frontend"
   ]
 }
