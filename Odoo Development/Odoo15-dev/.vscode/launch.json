@@ -14,8 +14,6 @@
             "args": [
                 "--conf=${workspaceFolder}/odoo.conf",
                 "--update=student",
-                "--update=modem",
-                "--update=muk_web_theme"
             ],
             "cwd":"${workspaceFolder}",
             "env": {},

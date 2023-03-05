@@ -1,5 +1,3 @@
 [[Copy, Restore, Move Databases]]
-[[Many2One Fields]]
-[[One2Many Fields]]
-[[Many2Many Fields]]
+[[Related Fields]]
 [[Transporting Database and Modules From Remote to Local]]
