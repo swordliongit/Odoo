@@ -16,6 +16,30 @@
               "state": {},
               "pinned": true
             }
+          },
+          {
+            "id": "300b3e93a7e0d09c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Database Control/Related Fields/Related Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abae2fd4cacacec8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Odoo Backend/Database Control/Related Fields/Related Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -142,9 +166,10 @@
   },
   "active": "36f57f9bd8653ecd",
   "lastOpenFiles": [
+    "Odoo Backend/Database Control/Related Fields/Related Fields.md",
+    "Odoo Backend/Database Control/Related Fields/Functional Fields.md",
     "Odoo Backend/Database Control/Related Fields/Many2Many Fields.md",
     "Odoo Backend/Database Control/Related Fields/Many2One Fields.md",
-    "Odoo Backend/Database Control/Related Fields/Related Fields.md",
     "Pictures/Screenshot 2023-03-02 115715.png",
     "Odoo Backend/Database Control/Related Fields/One2Many Fields.md",
     "Odoo Backend/Advanced/Custom Modules/Views/Wizard.md",
