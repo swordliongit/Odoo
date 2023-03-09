@@ -4,3 +4,4 @@
 [[Updating a Module]]
 [[VIEWS]]
 [[Module Customization]]
+[[Controllers]]
