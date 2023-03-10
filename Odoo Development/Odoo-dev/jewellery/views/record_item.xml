@@ -1,0 +1,16 @@
+<odoo>
+    <template name="Record Item" id="record_item">
+        <t t-call="website.layout">
+            <div class="oe_structure">
+                <div class="container">
+                    <br />
+                    <center>
+                        <h3>Record Item</h3>
+                        <span t-esc="record_item.name"/>
+                    </center>
+                    <br />
+                </div>
+            </div>
+        </t>
+    </template>
+</odoo>

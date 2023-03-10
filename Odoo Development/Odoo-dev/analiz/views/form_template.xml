@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+    <template id="form_response_1" name="Thanks Page">
+        <t t-call="website.layout">
+            <div class="container">
+                 Hey...subscribe
+            </div>
+        </t>
+    </template>
+</odoo>
