@@ -27,6 +27,17 @@ class Student(models.Model):
     
     average = fields.Float(string="Average", compute="get_average_student")
     
+    def set_student_to_accepted(self):
+        template_id = self.env.ref('student.student_accept_email_template')
+        print('template_id', template_id)
+        self.status = "accepted" 
+        if template_id:
+            template_id.send_mail(self.id, force_send=True, raise_exception=True, email_values={"email_to": self.email})
+            
+        
+    def set_student_to_rejected(self):
+        self.status = "rejected"
+    
     @api.depends("note_1", "note_2", "note_3", "note_4")
     def get_average_student(self):
         self.average = (self.note_1 + self.note_2 + self.note_3 + self.note_4) / 4
