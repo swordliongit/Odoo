@@ -13,11 +13,7 @@
             "program":"C:\\Program Files\\Odoo 15.0\\server\\odoo-bin",
             "args": [
                 "--conf=${workspaceFolder}/odoo.conf",
-<<<<<<< HEAD
                 "--update==student"
-=======
-                "--update=student"
->>>>>>> 489b42270238e4fc9ad2420a7d9bcfe016f85d53
             ],
             "cwd":"${workspaceFolder}",
             "env": {},

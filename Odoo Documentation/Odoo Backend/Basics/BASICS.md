@@ -2,4 +2,6 @@
 [[Importing Excel Files as a Table]]
 [[Installing External Apps]]
 [[Remove Dependency when Uninstalling an App]]
-
+[[Language of a User]]
+[[Language of Odoo]]
+[[Translating Individual Words]]

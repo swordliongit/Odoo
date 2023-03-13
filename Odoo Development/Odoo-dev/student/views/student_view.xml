@@ -9,12 +9,8 @@
         <sheet>
           <header>
             <field name="status" widget="statusbar"/>
-<<<<<<< HEAD
-            <button name="set_status_to_accepted" string="Accept Student" class="oe_highlight" type="object"/>
-=======
             <button name="set_student_to_accepted" string="Accept Student" type="object" class="oe_highlight"/>
             <button name="set_student_to_rejected" string="Reject Student" type="object" class="oe_highlight"/>
->>>>>>> 489b42270238e4fc9ad2420a7d9bcfe016f85d53
           </header>
           <group>
             <group>
