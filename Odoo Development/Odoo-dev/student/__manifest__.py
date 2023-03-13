@@ -18,13 +18,14 @@
     'version': '0.1',
 
     # any module necessary for this one to work correctly
-    'depends': ['base'],
+    'depends': ['base', 'mail'],
 
     # always loaded
     'data': [
         'security/ir.model.access.csv',
         'views/student_view.xml',
         'views/school_view.xml',
+        'data/student_accept_mail_template.xml'
     ],
     # only loaded in demonstration mode
     'demo': [
