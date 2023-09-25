@@ -1,5 +1,0 @@
-[[ERRORS]]
-[[PYTHON ACTIONS]]
-[[Debug Mode]]
-[[How to Send Emails From Odoo]]
-[[Changing the Title Tag of Odoo]]

@@ -1,4 +1,0 @@
-id,name,model_id:id,group_id:id,perm_read,perm_write,perm_create,perm_unlink
-access_for_student,Access Student,model_student_student,,1,1,1,1
-access_for_school,Access School,model_school_school,,1,1,1,1
-access_for_student_option,Access Student Option,model_student_option,,1,1,1,1

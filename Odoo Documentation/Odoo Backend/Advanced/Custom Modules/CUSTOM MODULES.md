@@ -1,7 +1,0 @@
-[[Creating a Module and Setting Development Environment]]
-[[How to see Custom Module's Fields]]
-[[How to see Custom Module's Fields]]
-[[Updating a Module]]
-[[VIEWS]]
-[[Module Customization]]
-[[Controllers]]
