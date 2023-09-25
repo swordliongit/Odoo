@@ -1,0 +1,7 @@
+[[Unique Id Generation]]
+[[Qr Code Generation]]
+[[Reading Data from Odoo]]
+[[Communicating with Odoo]]
+[[Wizard]]
+[[Reverting Custom Head Injection]]
+[[GOOGLE Ads API Integration - Backend]]

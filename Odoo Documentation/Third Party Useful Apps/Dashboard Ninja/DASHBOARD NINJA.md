@@ -1,0 +1,1 @@
+[[Dashboard Ninja Installation Error]]

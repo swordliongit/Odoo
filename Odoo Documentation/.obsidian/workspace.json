@@ -1,0 +1,418 @@
+{
+  "main": {
+    "id": "1e62eb94b9b539e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c8014c34aaa3a9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4898224e4977b569",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          },
+          {
+            "id": "68152cd3d9840a04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Modifying Records(Write).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fe76b06f9de4f91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Reading Records(Fetch).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3e877f4f60dae46e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Creating Records.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88aad9efa07c1d0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Searching for Records.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "805d1670da9cf009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Creating Records.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "38f9b4b821f2e440",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Control/Dynamic Status Bar with Selection Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ff78502f83aed92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Modifying Records(Write).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1b74f19a31c74e5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Searching for Records.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "09d1ce198494401d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Modifying Records(Write).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00dd19fc9b4343ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Users & Companies/USERS & COMPANIES.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "593f18fdff0e5ac0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.7"
+              }
+            }
+          },
+          {
+            "id": "f46fe0aaf3570a7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Controller/Modifying Data in Odoo from Outside.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1788cecc5e16dd9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Website/Website Form.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d01ad58bb6233f0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database Control/Related Fields/One2Many Fields.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17cfe6c23bd442e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Controller/Viewing Data in Odoo From Outside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d28f705455287322",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Technical/Python Actions/Modifying Records(Write).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d1b0e4bff8805b05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web Controller/Viewing Data in Odoo From Outside.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 17
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bba6cc06bb3feca0",
+    "type": "split",
+    "children": [
+      {
+        "id": "14430f45519a3680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4a322f3313b8f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db31fca3ca7cb430",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "search",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3c591de3f5a9d340",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a6644e08385f7ee",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 482.50434494018555
+  },
+  "right": {
+    "id": "2624ccae9bd80d2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6661e42f9abb1edf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fb17ddf9500e0ca",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Controller/Viewing Data in Odoo From Outside.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6e5ff598bb2ed2b4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Web Controller/Viewing Data in Odoo From Outside.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c3702931f59d3d27",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "526b870479f8452c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Web Controller/Viewing Data in Odoo From Outside.md"
+              }
+            }
+          },
+          {
+            "id": "e9c544fc6d01760d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "d1b0e4bff8805b05",
+  "lastOpenFiles": [
+    "Technical/Python Actions/Creating Records.md",
+    "Technical/Python Actions/Deleting Records.md",
+    "Technical/Python Actions/Modifying Records(Write).md",
+    "Technical/Python Actions/Copying a Record to Another Model.md",
+    "Database Control/Related Fields/Many2One Fields.md",
+    "Database Control/Related Fields/Related Fields.md",
+    "Database Control/Related Fields/Many2Many Fields.md",
+    "Database Control/Related Fields/One2Many Fields.md",
+    "Web Controller/Modifying Data in Odoo from Outside.md",
+    "Web Controller/Communicating with Odoo.md",
+    "Web Controller/Web Controller.md",
+    "Custom Modules/CUSTOM MODULES.md",
+    "Website/Website Form.md",
+    "Web Controller/Viewing Data in Odoo From Outside.md",
+    "Website/WEBSITE.md",
+    "Users & Companies/Controlling Visibility of the Apps.md",
+    "Technical/Python Actions/Warning Pop Up.md",
+    "Technical/Python Actions/Reading Records(Fetch).md",
+    "Advanced/GOOGLE Ads API Integration - Backend/Generating Refresh Tokens.md",
+    "Technical/Python Actions/Searching for Records.md",
+    "Views/Wizard.md",
+    "Database Control/Dynamic Status Bar with Selection Fields.md",
+    "Basics/Email and Password.md",
+    "Technical/Add Custom Filters.md",
+    "Advanced/GOOGLE Ads API Integration - Backend/Secret Manager API.md",
+    "Advanced/GOOGLE Ads API Integration - Backend/One-Tap Login.md",
+    "Pictures/GoogleAdsAPI_Flow.png",
+    "Pictures/authredirect.png",
+    "Advanced/GOOGLE Ads API Integration - Backend",
+    "Pictures/Ti18n_1.png",
+    "Pictures/Ti18n_2.png",
+    "Pictures/i18n_1.png",
+    "Website",
+    "Pictures/qrpage.png",
+    "Pictures/Screenshot 2023-03-16 161019.png",
+    "Pictures/idgeneration.png",
+    "F07C1100",
+    "Pictures/One2many_second.png",
+    "Pictures/One2Many_first.png",
+    "ir.model.access 1.csv",
+    "ir.model.access.csv",
+    "Web Controller",
+    "Pictures",
+    "Database Control/Related Fields",
+    "Odoo Frontend",
+    "Views/Visually Better Views"
+  ]
+}

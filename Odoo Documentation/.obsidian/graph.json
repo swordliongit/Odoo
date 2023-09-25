@@ -1,0 +1,205 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:PYTHON ACTIONS",
+      "color": {
+        "a": 1,
+        "rgb": 10063381
+      }
+    },
+    {
+      "query": "path:\"Technical/Python Actions\"",
+      "color": {
+        "a": 1,
+        "rgb": 16514816
+      }
+    },
+    {
+      "query": "file:BASICS",
+      "color": {
+        "a": 1,
+        "rgb": 6456877
+      }
+    },
+    {
+      "query": "path:Basics",
+      "color": {
+        "a": 1,
+        "rgb": 8057679
+      }
+    },
+    {
+      "query": "file:USERS &",
+      "color": {
+        "a": 1,
+        "rgb": 3881888
+      }
+    },
+    {
+      "query": "path:\"Advanced/Users & Companies\"",
+      "color": {
+        "a": 1,
+        "rgb": 4818429
+      }
+    },
+    {
+      "query": "file:ADVANCED",
+      "color": {
+        "a": 1,
+        "rgb": 6359562
+      }
+    },
+    {
+      "query": "file:Unique Id",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "file:Reading Data from Odoo",
+      "color": {
+        "a": 1,
+        "rgb": 14967308
+      }
+    },
+    {
+      "query": "file:Qr Code Generation",
+      "color": {
+        "a": 1,
+        "rgb": 11007752
+      }
+    },
+    {
+      "query": "file:Web Controller",
+      "color": {
+        "a": 1,
+        "rgb": 4752501
+      }
+    },
+    {
+      "query": "path:\"Web Controller\"",
+      "color": {
+        "a": 1,
+        "rgb": 4390864
+      }
+    },
+    {
+      "query": "file:CUSTOM MODULES",
+      "color": {
+        "a": 1,
+        "rgb": 1516382
+      }
+    },
+    {
+      "query": "path:\"Custom Modules\"",
+      "color": {
+        "a": 1,
+        "rgb": 5395168
+      }
+    },
+    {
+      "query": "file:DATABASE CONTROL",
+      "color": {
+        "a": 1,
+        "rgb": 10617089
+      }
+    },
+    {
+      "query": "path:\"Database Control\"",
+      "color": {
+        "a": 1,
+        "rgb": 16463671
+      }
+    },
+    {
+      "query": "file:VIEWS",
+      "color": {
+        "a": 1,
+        "rgb": 6766120
+      }
+    },
+    {
+      "query": "path:Views",
+      "color": {
+        "a": 1,
+        "rgb": 12551432
+      }
+    },
+    {
+      "query": "file:WEBSITE",
+      "color": {
+        "a": 1,
+        "rgb": 4554007
+      }
+    },
+    {
+      "query": "path:Website",
+      "color": {
+        "a": 1,
+        "rgb": 3132019
+      }
+    },
+    {
+      "query": "file:Inheriting Models",
+      "color": {
+        "a": 1,
+        "rgb": 12551432
+      }
+    },
+    {
+      "query": "file:How to Send Emails",
+      "color": {
+        "a": 1,
+        "rgb": 12551432
+      }
+    },
+    {
+      "query": "file:Form Buttons",
+      "color": {
+        "a": 1,
+        "rgb": 12551432
+      }
+    },
+    {
+      "query": "file:TECHNICAL",
+      "color": {
+        "a": 1,
+        "rgb": 5714780
+      }
+    },
+    {
+      "query": "path:TECHNICAL",
+      "color": {
+        "a": 1,
+        "rgb": 10958512
+      }
+    },
+    {
+      "query": "path:\"Advanced/GOOGLE Ads API Integration - Backend\"",
+      "color": {
+        "a": 1,
+        "rgb": 9058048
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 1.18208333333333,
+  "lineSizeMultiplier": 1.10041666666667,
+  "collapse-forces": false,
+  "centerStrength": 0.154166666666667,
+  "repelStrength": 8.4375,
+  "linkStrength": 0.308333333333333,
+  "linkDistance": 182,
+  "scale": 0.4585064763694421,
+  "close": true
+}
