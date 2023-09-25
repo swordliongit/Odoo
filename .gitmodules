@@ -4,3 +4,6 @@
 [submodule "Projects/Meeting-Odoo-dbmodule"]
 	path = Projects/Meeting-Odoo-dbmodule
 	url = https://github.com/swordliongit/Meeting-Odoo-dbmodule
+[submodule "custom_addons"]
+	path = custom_addons
+	url = https://github.com/swordliongit/custom_addons.git
